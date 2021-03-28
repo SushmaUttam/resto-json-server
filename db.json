@@ -1,0 +1,71 @@
+{
+  "resto": [
+    {
+      "id": 1,
+      "name": "Sushma's Kitchen",
+      "address": "Solapur",
+      "mobile": 7276090456,
+      "email": "sushma@gmail.com"
+    },
+    {
+      "name": "Varun's Restaurant",
+      "address": "Solapur",
+      "mobile": 7276090456,
+      "email": "varun@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Madhuri's Hotel",
+      "address": "Pune",
+      "email": "madhuri@gmail.com",
+      "mobile": 987456321,
+      "id": 10
+    },
+    {
+      "name": "Raju's Resto",
+      "address": "Solapur",
+      "email": "raju@gmail.com",
+      "mobile": 987456321,
+      "id": 11
+    },
+    {
+      "name": "Datta's Kitchen",
+      "address": "Bangalore",
+      "email": "datta2gmail.com",
+      "mobile": 987456321,
+      "id": 12
+    }
+  ],
+  "users": [
+    {
+      "name": "sush",
+      "password": "sush",
+      "email": "sush@fedex.com",
+      "id": 1
+    },
+    {
+      "name": "varun",
+      "password": "varun",
+      "email": "varun@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "sef",
+      "password": "ede",
+      "email": "efef",
+      "id": 3
+    },
+    {
+      "name": "dattatray",
+      "password": "datta",
+      "email": "datta@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Datta",
+      "password": "datta",
+      "email": "datta2gmail.com",
+      "id": 5
+    }
+  ]
+}
